@@ -11,5 +11,5 @@
 -[Loop_Infinito](Portfolio_Segundo_Trimestre/Logica_Computacional)
 ### Fundamentos de TI
 -[classificador_de_numeros](Portfolio_Segundo_Trimestre/Fundamentos_de_TI)
--[user_n_humano](Portfolio_Segundo_Trimestre/Fundamentos_de_TI)-[classificador_de_numeros](Portfolio_Segundo_Trimestre/Fundamentos_de_TI)
+-[user_n_humano](Portfolio_Segundo_Trimestre/Fundamentos_de_TI)
 -[permissao_de_usuarios](Portfolio_Segundo_Trimestre/Fundamentos_de_TI)
