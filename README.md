@@ -6,9 +6,9 @@
 -[user_n_humano](Fundamentos_de_TI/Avaliação_Prática/user_n_humano) 
 ## Portfolio Segundo trimestre
 ### Logica Computacional
--[Estrutura_de_repeticao](Portfolio_Segundo_Trimestre/Logica_Computacional)
--[Exercicio_JOptionPane](Portfolio_Segundo_Trimestre/Logica_Computacional)
--[Loop_Infinito](Portfolio_Segundo_Trimestre/Logica_Computacional)
+-[Estrutura_de_repeticao](Portfolio_Segundo_Trimestre/Logica_Computacional/Estrutura_de_repeticao)
+-[Exercicio_JOptionPane](Portfolio_Segundo_Trimestre/Logica_Computacional/Exercicio_JOptionPane)
+-[Loop_Infinito](Portfolio_Segundo_Trimestre/Logica_Computacional/Loop_Infinito)
 ### Fundamentos de TI
 -[classificador_de_numeros](Portfolio_Segundo_Trimestre/Fundamentos_de_TI/classificador_de_numeros)
 -[user_n_humano](Portfolio_Segundo_Trimestre/Fundamentos_de_TI/user_n_humano)
