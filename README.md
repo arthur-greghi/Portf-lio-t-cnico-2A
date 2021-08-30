@@ -5,3 +5,10 @@
 -[permissao_de_usuarios](Fundamentos_de_TI/Avaliação_Prática/permissao_de_usuarios) 
 -[user_n_humano](Fundamentos_de_TI/Avaliação_Prática/user_n_humano) 
 ## Portfolio Segundo trimestre
+#Logica Computacional
+
+
+
+#Fundamentos de TI
+
+
