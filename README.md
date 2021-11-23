@@ -15,4 +15,4 @@
 - [permissao_de_usuarios](Portfolio_Segundo_Trimestre/Fundamentos_de_TI/permissao_de_usuarios)
 ## Portfolio Terceiro trimestre
 ### Logica Computacional
-- [Logica_Computacional](_PetShop)
+- [Cadastro Petshop](_PetShop)
