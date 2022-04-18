@@ -18,7 +18,7 @@
 - [Cadastro Petshop](Logica_Computacional)
 ## Portfolio 2022 Primeiro Trimestre
 ### Banco de Dados
-- [Funcao exibir menor valor](PrintCF1.png)
+- [Função exibir menor valor](PrintCF1.png)
 ### Programação de Aplicativos
 - [Calculadora para geometria espacial](Geometria)
 - [Calculadora de horas](QuadroDeHoras)
