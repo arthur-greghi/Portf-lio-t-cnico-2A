@@ -21,3 +21,4 @@
 - [Funcao exibir menor valor](PrintCF1.png)
 ### Programação de Aplicativos
 - [Calculadora para geometria espacial](Geometria)
+- [Calculadora de horas](QuadroDeHoras)
