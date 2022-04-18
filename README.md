@@ -18,4 +18,4 @@
 [Cadastro Petshop](Logica_Computacional)
 ## Portfolio 2022 Primeiro Trimestre
 ### Banco de Dados
--[PortfolioTecnico/PrintCF1.png]
+-[Funcao exibir menor valor](PortfolioTecnico/PrintCF1.png)
