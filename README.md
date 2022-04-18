@@ -18,9 +18,9 @@
 - [Cadastro Petshop](Logica_Computacional)
 ## Portfolio 2022 Primeiro Trimestre
 ### Banco de Dados
-- [Função exibir menor valor](PrintCF1.png)
+- [Função exibir menor valor](PrintCF1.png)_Minha primeira função criada em sql
 ### Programação de Aplicativos
-- [Calculadora para geometria espacial](Geometria)
-- [Calculadora de horas](QuadroDeHoras)
+- [Calculadora para geometria espacial](Geometria)_Foi o primeiro projeto que desenvolvi em aula
+- [Calculadora de horas](QuadroDeHoras)_Foi desenvolvido após o aplicativo de geometria, aprofundou o tratamento de exceção referente aos cálculos
 ### Autorias
-- [Prototipo de aplicativo](PrototipoBarbearia.pdf)
+- [Prototipo de aplicativo](PrototipoBarbearia.pdf)_Projeto que vem sendo desenvolido em grupo sem depender das aulas
