@@ -29,3 +29,9 @@
 - [Aplicativo de Teste Vocacional](MarcolaTestesVocacionais.zip) Projeto desenvolvido em grupo, apresenta um teste vocacional sobre as diferentes areas de trabalho no setor tecnológico
 ### Banco de Dados
 - [Aplicativo de Loja](Loja.zip) Projeto desenvolvido em grupo, apresenta um meio do cliente buscar diferentes tipos de computadores disponíveis em uma loja
+## Portfolio 2022 Terceiro Trimestre
+### Programação de Aplicativos
+
+### Desenvolvimento de Sistemas
+
+### Teste de Sistemas
