@@ -33,8 +33,8 @@
 ### Programação de Aplicativos
 - [Aplicativo de Urna Eletrônica](UrnaEletronica.zip) Projeto desenvolvido durante a aula, com objetivo de entender melhor o funcionamento das urnas brasileiras por meio da criação de um protótipo de mesma ideia
 ### Desenvolvimento de Sistemas
-- [Protótipo de Sistema de Gerenciamento de Biblioteca ](bibliotecaSaep.zip) Projeto desenvolvido em aula, com propósito de praticar antes da prova prática do SAEP, aplicação baseada em java e com conexão ao banco de dados SQL por meio do PGADMIN4
+- [Protótipo de Sistema de Gerenciamento de Biblioteca](bibliotecaSaep.zip) Projeto desenvolvido em aula, com propósito de praticar antes da prova prática do SAEP, aplicação baseada em java e com conexão ao banco de dados SQL por meio do PGADMIN4
 ### Teste de Sistemas
-- [Documentação do aplicativo de Teste Vocacional](Marcola Testes Vocacionais.docx) Documentação referente ao aplicativo de teste vocacional escolhida com intuito de complementar a informação já disponível sobre o mesmo
+- [Documentação do aplicativo de Teste Vocacional](TESTE DE SISTEMA - Marcola Testes Vocacionais) Documentação referente ao aplicativo de teste vocacional escolhida com intuito de complementar a informação já disponível sobre o mesmo
 ### Autorias
 - [Jogo da Velha Android](jogoDaVelha.zip) Primeiro jogo replicado em aula, possuo instalado no meu smartphone
